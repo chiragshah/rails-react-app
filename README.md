@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is demo Rails application with react and material ui
 
-Things you may want to cover:
+Prerequisite
 
-* Ruby version
+> Ruby - 3.0.1
 
-* System dependencies
+> Rails - 7.0.1
 
-* Configuration
+> Node - v14+
 
-* Database creation
+> Bundler - 2.2.31
 
-* Database initialization
+<b> Set mysql login details to database.yml </b>
 
-* How to run the test suite
+<b> Run </b>
 
-* Services (job queues, cache servers, search engines, etc.)
+<code>bin/setup</code> # for setup rails project
 
-* Deployment instructions
-
-* ...
+<code>bin/dev</code> # for run rails application
